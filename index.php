@@ -1,5 +1,5 @@
 <?php
-$title='首页';
+$title='阳春论坛首页';
 include('header.php');
 ?>
 <!--
